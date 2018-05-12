@@ -1,0 +1,35 @@
+_repo: The-Boy-CrusadersA-Story-of-the-Days-of-Louis-IX._26671
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26671-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edgar, John G. (John George)
+    aliases:
+    - Edgar, J.G.
+    - Edgar, J. G. (John George)
+    - Edgar, John George
+    birthdate: 1834
+    deathdate: 1864
+    gutenberg_agent_id: '32162'
+    url: http://www.gutenberg.org/2009/agents/32162
+description: ''
+gutenberg_issued: '2008-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- History -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Crusades -- Juvenile fiction'
+- !lcsh 'France -- Kings and rulers -- Juvenile fiction'
+- !lcsh 'Church history -- Juvenile fiction'
+- !lcsh 'Louis IX, King of France, 1214-1270 -- Juvenile fiction'
+title: 'The Boy Crusaders: A Story of the Days of Louis IX.'
+url: http://www.gutenberg.org/ebooks/26671
